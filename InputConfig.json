@@ -1,0 +1,42 @@
+[
+    {
+        "type" : "text", 
+        "id" : "FullName",
+        "name" : "FullName",
+        "value" : "",
+        "placeholder" : "Full Name",
+        "style" : ""
+    },
+    {
+        "type" : "email", 
+        "id" : "Email",
+        "name" : "Email",
+        "value" : "",
+        "placeholder" : "Email",
+        "style" : ""
+    },
+    {
+        "type" : "tel", 
+        "id" : "PhoneNunber",
+        "name" : "PhoneNumber",
+        "value" : "",
+        "placeholder" : "Phone Number",
+        "style" : ""
+    },
+    {
+        "type" : "radio", 
+        "id" : "Male",
+        "name" : "Gender",
+        "value" : "Male",
+        "placeholder" : "",
+        "style" : ""
+    },    {
+        "type" : "radio", 
+        "id" : "Female",
+        "name" : "Gender",
+        "value" : "Female",
+        "placeholder" : "",
+        "style" : ""
+    }
+
+]
